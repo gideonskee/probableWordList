@@ -16,6 +16,8 @@ master
 1234
 football
 1234567890
+Gideon
+Abel
 000000
 computer
 666666
